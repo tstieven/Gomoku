@@ -2,3 +2,9 @@ gomoku.core.Player@199d18b3 : 3 5
 gomoku.core.Player@199d18b3 : 3 9
 gomoku.core.Player@199d18b3 : 7 4
 gomoku.core.Player@199d18b3 : 5 10
+gomoku.core.Player@6c649b30 : 4 8
+gomoku.core.Player@79748ebe : 8 8
+gomoku.core.Player@6c649b30 : 5 10
+gomoku.core.Player@79748ebe : 9 8
+gomoku.core.Player@6c649b30 : 8 10
+gomoku.core.Player@79748ebe : 7 11
