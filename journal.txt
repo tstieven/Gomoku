@@ -1,10 +1,135 @@
-gomoku.core.Player@199d18b3 : 3 5
-gomoku.core.Player@199d18b3 : 3 9
-gomoku.core.Player@199d18b3 : 7 4
-gomoku.core.Player@199d18b3 : 5 10
-gomoku.core.Player@6c649b30 : 4 8
-gomoku.core.Player@79748ebe : 8 8
-gomoku.core.Player@6c649b30 : 5 10
-gomoku.core.Player@79748ebe : 9 8
-gomoku.core.Player@6c649b30 : 8 10
-gomoku.core.Player@79748ebe : 7 11
+Blue player : 5 12
+Red Player : 7 0
+Blue player : 6 12
+Red Player : 6 0
+Blue player : 7 12
+Red Player : 8 0
+Blue player : 7 11
+Red Player : 5 0
+Blue player : 6 11
+Red Player : 3 0
+Blue player : 5 11
+Red Player : 6 10
+Blue player : 4 11
+Red Player : 4 12
+Blue player : 5 13
+Red Player : 1 7
+Blue player : 3 11
+Partie terminee 
+
+Coup de Blue Player
+
+
+Coup de Red Player
+
+5 12
+7 0
+6 12
+6 0
+7 12
+8 0
+7 11
+5 0
+6 11
+3 0
+5 11
+6 10
+4 11
+4 12
+5 13
+1 7
+3 11
+
+Red Player : 8 7
+Blue player : 8 11
+Partie terminee 
+
+Coup de Blue Player
+
+
+Coup de Red Player
+
+5 12
+7 0
+6 12
+6 0
+7 12
+8 0
+7 11
+5 0
+6 11
+3 0
+5 11
+6 10
+4 11
+4 12
+5 13
+1 7
+3 11
+8 7
+8 11
+
+Red Player : 11 6
+Blue player : 11 9
+Partie terminee 
+
+Coup de Blue Player
+
+
+Coup de Red Player
+
+5 12
+7 0
+6 12
+6 0
+7 12
+8 0
+7 11
+5 0
+6 11
+3 0
+5 11
+6 10
+4 11
+4 12
+5 13
+1 7
+3 11
+8 7
+8 11
+11 6
+11 9
+
+Red Player : 9 8
+Blue player : 8 12
+Partie terminee 
+
+Coup de Blue Player
+
+
+Coup de Red Player
+
+5 12
+7 0
+6 12
+6 0
+7 12
+8 0
+7 11
+5 0
+6 11
+3 0
+5 11
+6 10
+4 11
+4 12
+5 13
+1 7
+3 11
+8 7
+8 11
+11 6
+11 9
+9 8
+8 12
+

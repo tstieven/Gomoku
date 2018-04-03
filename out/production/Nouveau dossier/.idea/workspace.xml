@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44f5faa1-10bb-429e-8a02-1fe59fe9e04c" name="Default" comment="" />
+    <list default="true" id="44f5faa1-10bb-429e-8a02-1fe59fe9e04c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/gomoku/aspect/AdversaireJ.aj" beforeDir="false" afterPath="$PROJECT_DIR$/gomoku/aspect/AdversaireJ.aj" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,22 +25,23 @@
       <file leaf-file-name="Grid.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gomoku/core/model/Grid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1017">
+            <state relative-caret-position="320">
               <caret line="160" column="55" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4705#4706#0" expanded="true" />
-                <element signature="e#4717#4718#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdversaireJ.aj" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AdversaireJ.aj" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gomoku/aspect/AdversaireJ.aj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="153">
+              <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JournalTest.aj" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JournalTest.aj" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gomoku/aspect/JournalTest.aj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="102">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,15 +90,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdversaireJ.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/Nouveau dossier/gomoku/aspect/AdversaireJ.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -115,6 +109,9 @@
       <find>placesto</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -132,6 +129,7 @@
         <option value="$PROJECT_DIR$/gomoku/JournalTest.aj" />
         <option value="$PROJECT_DIR$/gomoku/core/model/Grid.java" />
         <option value="$PROJECT_DIR$/gomoku/aspect/JournalTest.aj" />
+        <option value="$PROJECT_DIR$/gomoku/aspect/AdversaireJ.aj" />
       </list>
     </option>
   </component>
@@ -191,26 +189,14 @@
             </path>
             <path>
               <item name="TP3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TP3" type="462c0819:PsiDirectoryNode" />
-              <item name="Nouveau dossier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TP3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TP3" type="462c0819:PsiDirectoryNode" />
-              <item name="Nouveau dossier" type="462c0819:PsiDirectoryNode" />
-              <item name="gomoku" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TP3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TP3" type="462c0819:PsiDirectoryNode" />
-              <item name="Nouveau dossier" type="462c0819:PsiDirectoryNode" />
-              <item name="gomoku" type="462c0819:PsiDirectoryNode" />
-              <item name="aspect" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -222,8 +208,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -354,13 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522371003004</updated>
       <workItem from="1522371003054" duration="538000" />
-      <workItem from="1522778701819" duration="2404000" />
+      <workItem from="1522778701819" duration="2513000" />
+      <workItem from="1522781637090" duration="122000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12396000" />
+    <option name="totallyTimeSpent" value="12627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -368,15 +353,14 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49934897" weight="0.32827586" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50130206" side_tool="true" weight="0.32965517" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986979" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986979" weight="0.32965517" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -388,6 +372,7 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49934897" weight="0.32827586" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
@@ -408,7 +393,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gomoku/core/Player.java">
+    <entry file="file://$PROJECT_DIR$/gomoku/ui/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gomoku/core/model/Spot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -456,8 +453,6 @@
           <caret line="160" column="55" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4705#4706#0" expanded="true" />
-            <element signature="e#4717#4718#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -522,8 +517,6 @@
           <caret line="148" column="46" selection-start-line="148" selection-start-column="12" selection-end-line="148" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4705#4706#0" expanded="true" />
-            <element signature="e#4717#4718#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -663,27 +656,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gomoku/aspect/test.aj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gomoku/aspect/test.aj" />
     <entry file="file://$PROJECT_DIR$/out/production/Nouveau dossier/gomoku/aspect/AdversaireJ.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gomoku/aspect/AdversaireJ.aj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -699,6 +676,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gomoku/core/model/Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="160" column="55" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gomoku/core/model/Spot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -706,22 +693,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gomoku/core/model/Grid.java">
+    <entry file="file://$PROJECT_DIR$/gomoku/aspect/JournalTest.aj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1017">
-          <caret line="160" column="55" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="55" />
+        <state relative-caret-position="102">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4705#4706#0" expanded="true" />
-            <element signature="e#4717#4718#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gomoku/aspect/JournalTest.aj">
+    <entry file="file://$PROJECT_DIR$/gomoku/aspect/AdversaireJ.aj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="153">
+          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

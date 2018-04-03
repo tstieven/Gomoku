@@ -170,8 +170,4 @@ public class Grid {
 			}
 		}
 	}
-
-	public void print(){
-		System.out.println("test");
-	}
 }
